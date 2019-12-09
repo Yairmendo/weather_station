@@ -1,4 +1,4 @@
-//Estación meteorológica
+//Estación de calidad de aire
 
 //Lib
 #include "ESP826WiFi.h"
